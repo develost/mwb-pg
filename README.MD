@@ -1,2 +1,2 @@
-mwb to pg
+mwb2pg
 openshift engine
